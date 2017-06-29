@@ -34,6 +34,8 @@ Unit 1 Audio: BDK09-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK09-1_resources.pdf
 
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK09-1/presentation_html5.html)
+
 ### Unit 2: Production of Health and Biomedical Information - Part 2
 
 Unit 2 Slides: BDK09-2.pptx
@@ -41,6 +43,8 @@ Unit 2 Slides: BDK09-2.pptx
 Unit 2 Audio: BDK09-2.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 2 Resources: BDK09-2_resources.pdf
+
+Example: [online presentation](https://dmice.ohsu.edu/bd2k/demo/BDK09-2/presentation_html5.html)
 
 ### Module Supplemental Materials
 
